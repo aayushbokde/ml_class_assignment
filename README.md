@@ -5,4 +5,5 @@ This repository has many assignments and each might use a different dataset, So 
 1. Assignment1, dataset - Mall_Customers.csv
 2. Assignment3, dataset - Mall_Customers.csv
 3. Assignment4, dataset - iris.csv
+4. Assignment6, dataset - tvmarketing - tvmarketing.csv
    
