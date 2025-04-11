@@ -3,9 +3,11 @@ This repository contains my Machine Learning class assignment, covering fundamen
 
 This repository has many assignments and each might use a different dataset, So please read this before checking the assignments
 1. Assignment1, dataset - Mall_Customers.csv
-2. Assignment3, dataset - Mall_Customers.csv
-3. Assignment4, dataset - iris.csv
-4. Assignment6, dataset - tvmarketing - tvmarketing.csv
-5. Assignment7, dataset - Dataset_Admission_Predict - Dataset_Admission_Predict.csv
+2. Assignment2, dataset - Heart (1).csv
+3. Assignment3, dataset - Mall_Customers.csv
+4. Assignment4, dataset - iris.csv
+5. Assignment5, dataset - Mall_Customers.csv
+6. Assignment6, dataset - tvmarketing - tvmarketing.csv
+7. Assignment7, dataset - Dataset_Admission_Predict - Dataset_Admission_Predict.csv
 
    
